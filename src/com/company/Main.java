@@ -1,5 +1,9 @@
 package com.company;
 
+import com.company.first.Animal;
+import com.company.first.Cat;
+import com.company.first.Dog;
+
 public class Main {
 
     public static void main(String[] args) {

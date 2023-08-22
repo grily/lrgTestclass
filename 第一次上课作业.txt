@@ -1,6 +1,12 @@
 本周JAVA练习题： 写完可以发邮件至：504780760@qq.com。
-1.题目：创建一个名为Animal的父类，具有一个名为makeSound()的方法。创建两个子类Dog和Cat，分别重写makeSound()方法以输出不同的声音，在主类中，创建一个Animal类型的数组，包含Dog和Cat的实例，并调用它们的makeSound()方法；
+1.题目：创建一个名为Animal的父类，具有一个名为makeSound()的方法。
+创建两个子类Dog和Cat，分别重写makeSound()方法以输出不同的声音，
+在主类中，创建一个Animal类型的数组，包含Dog和Cat的实例，并调用它们的makeSound()方法；
 
-2. 创建一个名为FileReaderWriter的泛型类，实现一个readFile()方法用于读取给定文件的内容，并返回一个包含文件内容的列表。实现一个writeToFile()方法用于将给定的列表内容写入到指定的文件中。创建一个FileReaderWriter对象，并分别调用readFile()和writeToFile()方法读取和写入文件内容。
+2. 创建一个名为FileReaderWriter的泛型类，实现一个readFile()方法用于读取给定文件的内容，
+并返回一个包含文件内容的列表。
+实现一个writeToFile()方法用于将给定的列表内容写入到指定的文件中。
+创建一个FileReaderWriter对象，并分别调用readFile()和writeToFile()方法读取和写入文件内容。
 
-3. 创建一个名为PrimeNumber的类，实现一个方法isPrime()用于判断一个数是否为质数，并返回结果。在Main类中创建一个PrimeNumber对象，并调用isPrime()方法判断给定的数是否为质数。
+3. 创建一个名为PrimeNumber的类，实现一个方法isPrime()用于判断一个数是否为质数，
+并返回结果。在Main类中创建一个PrimeNumber对象，并调用isPrime()方法判断给定的数是否为质数。
